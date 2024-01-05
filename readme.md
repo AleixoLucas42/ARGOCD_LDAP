@@ -109,5 +109,5 @@ control the RBAC using the argocd-rbac-cm configmap, but the users and groups wi
 from active directory.
 
 ### REF
-- [how-to-setup-ldap-and-openldap-for-argocd]([https://www.opsmx.com/blog/how-to-setup-ldap-and-openldap-for-argocd)
+- [how-to-setup-ldap-and-openldap-for-argocd](https://www.opsmx.com/blog/how-to-setup-ldap-and-openldap-for-argocd)
 - [Argocd documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/user-management/)
